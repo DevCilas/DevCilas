@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">I also have experience with...</h2>
+<h2 align="center">I also have experience with...</h2>
 
 ###
 
