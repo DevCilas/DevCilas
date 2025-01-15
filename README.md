@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Cilas and I'm a , from ....</p>
+<p align="left">My name is Cilas and I'm a Software Engineer Student, from Brazil ....</p>
 
 ###
 
