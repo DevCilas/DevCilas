@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Cilas and I'm a Software Engineer Student, from Brazil ....</p>
+<p align="left">My name is Cilas and I'm a Software Engineer Student, from São Paulo, Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022. <br>📚 I'm currently learning Node JS and Full-Stack Developement. <br>🎯 Goals: I am seeking an internship opportunity to apply my knowledge in software engineering, gain hands-on experience, and contribute to innovative solutions. <br>🎲 Fun fact: I'm a musician and I love volleyball.</p>
 
 ###
 
